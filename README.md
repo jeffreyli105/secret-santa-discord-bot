@@ -44,3 +44,15 @@ How to use:
 The users that guessed correctly (excluding user A) earn 1 point.
 After everyone has finished voting for each round, it’s revealed that user A gifted user B.
 3) After all rounds have completed, a leaderboard is displayed showing the points every user has earned in total.
+
+
+How to play:
+1) Run /register on everyone's accounts
+2) Fill in config.properties
+3) Run /start on admin account
+4) Run /reveal on everyone's accounts
+5) Save the registrations.json and assignments.json files to your local as backup
+6) On the day of play, copy the files into the data folder if not already there
+7) Run /vote
+
+
