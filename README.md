@@ -7,7 +7,7 @@ A discord bot to be able to play Secret Santa with your friends and family!
 + appPassword: Create an app password for the email
 + ownerID: After running /register on your discord, go to registrations.json and copy your ID here
 
-<ins> # Commands </ins>:
+# <ins> Commands </ins>:
 
 /echo [text]: echoes back the text you provide. Eg. /echo hi
 
