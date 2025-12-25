@@ -46,7 +46,7 @@ After everyone has finished voting for each round, it’s revealed that user A g
 3) After all rounds have completed, a leaderboard is displayed showing the points every user has earned in total.
 
 
-How to play:
+# How to play:
 1) Run /register on everyone's accounts
 2) Fill in config.properties
 3) Run /start on admin account
