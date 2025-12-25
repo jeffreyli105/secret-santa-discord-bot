@@ -1,13 +1,13 @@
 # secret-santa-discord-bot
 A discord bot to be able to play Secret Santa with your friends and family!
 
-config.properties:
-- botToken: Generate a bot token in https://discord.com/developers/applications
-- emailFrom: Put an email you want to send emails from
-- appPassword: Create an app password for the email
-- ownerID: After running /register on your discord, go to registrations.json and copy your ID here
+# config.properties
++ botToken: Generate a bot token in https://discord.com/developers/applications
++ emailFrom: Put an email you want to send emails from
++ appPassword: Create an app password for the email
++ ownerID: After running /register on your discord, go to registrations.json and copy your ID here
 
-Commands:
+<ins> # Commands </ins>:
 
 /echo [text]: echoes back the text you provide. Eg. /echo hi
 
