@@ -8,6 +8,7 @@ config.properties:
 - ownerID: After running /register on your discord, go to registrations.json and copy your ID here
 
 Commands:
+
 /echo [text]: echoes back the text you provide. Eg. /echo hi
 
 /info: displays information about the bot. Eg. /info
