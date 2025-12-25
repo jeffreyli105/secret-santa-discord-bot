@@ -16,7 +16,7 @@ A discord bot to be able to play Secret Santa with your friends and family!
 **/ping:** checks the bot’s latency to Discord’s gateway. Eg. /ping
 
 **/register:** registers a user
-How to use:
+<ins>How to use:</ins>
 1) Type /register
 2) Choose the language
 3) Answer the personality test questions
